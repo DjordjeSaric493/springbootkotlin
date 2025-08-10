@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "ABBA",
+    "album": "Voulez-Vous",
+    "releaseYear": 1979,
+    "coverUrl": "/media/albumart/abba-gimme-gimme-gimme.png",
+    "audioSnippetUrl": "/media/songs/abba-gimme-gimme-gimme.mp3",
+    "trivia": "Pesma je poslužila kao inspiracija za hit Madonne 'Hung Up' iz 2005. godine, s obzirom da koristi sample glavnog melodijskog rifa."
+  },
+  {
+    "title": "Let's Dance",
+    "artist": "David Bowie",
+    "album": "Let's Dance",
+    "releaseYear": 1983,
+    "coverUrl": "/media/albumart/david-bowie-lets-dance.jpg",
+    "audioSnippetUrl": "/media/songs/david-bowie-lets-dance-official-video_uhfbPGv.mp3",
+    "trivia": "Ova pesma je označila veliki komercijalni uspeh za Davida Bowieja, a producirao ju je Nile Rodgers, gitarista i frontmen benda Chic."
+  },
+  {
+    "title": "Money for Nothing",
+    "artist": "Dire Straits",
+    "album": "Brothers in Arms",
+    "releaseYear": 1985,
+    "coverUrl": "/media/albumart/dire-straits-money-for-nothing.jpg",
+    "audioSnippetUrl": "/media/songs/dire-straits-money-for-nothing.mp3",
+    "trivia": "Spot za ovu pesmu bio je jedan od prvih kompjuterski generiranih animiranih video spotova koji je emitovan na MTV-u. Čuveni uvodni rif je postao ikona."
+  },
+  {
+    "title": "Sweet Dreams (Are Made of This)",
+    "artist": "Eurythmics",
+    "album": "Sweet Dreams (Are Made of This)",
+    "releaseYear": 1983,
+    "coverUrl": "/media/albumart/sweetdreamseurythmic_.jpg",
+    "audioSnippetUrl": "/media/songs/eurythmics-sweet-dreams-are-made-of-this.mp3",
+    "trivia": "Pesma je bila prekretnica za Eurythmics, ali je Annie Lennox prvobitno smatrala da je previše mračna da bi je objavili kao singl."
+  },
+  {
+    "title": "Everybody Wants to Rule the World",
+    "artist": "Tears for Fears",
+    "album": "Songs from the Big Chair",
+    "releaseYear": 1985,
+    "coverUrl": "/media/albumart/t4feverybodywantsto.jpg",
+    "audioSnippetUrl": "/media/songs/everybody-wants-to-rule-the-world.mp3",
+    "trivia": "Pesma je postala simbol 80-ih i veliki hit u Americi, ali bend nije bio potpuno zadovoljan konačnim rezultatom."
+  },
+  {
+    "title": "Don't Cry",
+    "artist": "Guns N' Roses",
+    "album": "Use Your Illusion I",
+    "releaseYear": 1991,
+    "coverUrl": "/media/albumart/gnrdontcry.jpg",
+    "audioSnippetUrl": "/media/songs/guns-n-roses-dont-cry-hd.mp3",
+    "trivia": "Ovo je jedna od tri pesme sa istim imenom koju je bend snimio, a nalazi se na oba albuma iz 'Use Your Illusion' serije."
+  },
+  {
+    "title": "Kiss",
+    "artist": "Prince and The Revolution",
+    "album": "Parade",
+    "releaseYear": 1986,
+    "coverUrl": "/media/albumart/prince-the-revolution-kiss.jpg",
+    "audioSnippetUrl": "/media/songs/prince-the-revolution-kiss.mp3",
+    "trivia": "Prince je prvobitno napisao pesmu za drugi bend, ali je na kraju odlučio da je sam snimi, dodavši ikonični gitarski rif."
+  },
+  {
+    "title": "Silver Springs",
+    "artist": "Fleetwood Mac",
+    "album": "Rumours",
+    "releaseYear": 1977,
+    "coverUrl": "/media/albumart/silverspringsfm.jpeg",
+    "audioSnippetUrl": "/media/songs/silver-springs-2004-remaster_fnSWffe.mp3",
+    "trivia": "Pesma je trebala da se nađe na albumu 'Rumours', ali je uklonjena zbog svoje dužine. Kasnije je postala veliki hit na živim nastupima."
+  },
+  {
+    "title": "Lovesong",
+    "artist": "The Cure",
+    "album": "Disintegration",
+    "releaseYear": 1989,
+    "coverUrl": "/media/albumart/CureDisintegration.jpg",
+    "audioSnippetUrl": "/media/songs/thecure-lovesong-remastered.mp3",
+    "trivia": "Robert Smith je pesmu napisao kao venčani dar svojoj dugogodišnjoj devojci i budućoj supruzi, Mary Poole. Posebno draga pesma autoru ove app <3"
+  },
+  {
+    "title": "New Year's Day",
+    "artist": "U2",
+    "album": "War",
+    "releaseYear": 1983,
+    "coverUrl": "/media/albumart/u2newyearsday.jpg",
+    "audioSnippetUrl": "/media/songs/u2-new-years-day.mp3",
+    "trivia": "Ova pesma je inspirisana pokretom Solidarnost u Poljskoj i postala je prvi međunarodni hit benda U2."
+  },
+  {
+    "title": "Ziggy Stardust",
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "releaseYear": 1972,
+    "coverUrl": "/media/albumart/ZiggyStardust.jpg",
+    "audioSnippetUrl": "/media/songs/ziggy-stardust-2012-remaster.mp3",
+    "trivia": "Pesma je ključna za stvaranje David Bowie-evog alter ega, Ziggy-a Stardusta, koji je postao ikona glam rock muzike."
+  }
+]

@@ -3,6 +3,7 @@ plugins {
 	kotlin("plugin.spring") version "1.9.25"
 	id("org.springframework.boot") version "3.5.4"
 	id("io.spring.dependency-management") version "1.1.7"
+	kotlin("plugin.serialization") version "1.9.22"
 }
 
 group = "com.example"
@@ -16,6 +17,7 @@ java {
 
 repositories {
 	mavenCentral()
+	maven { url = uri("https://repo1.maven.org/maven2") }
 }
 
 dependencies {
@@ -26,9 +28,15 @@ dependencies {
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
 	implementation("org.springframework.boot:spring-boot-starter-data-jpa")
-	implementation("org.postgresql:postgresql")
+
 
 	implementation("org.springframework.boot:spring-boot-starter-web")
+	implementation("mysql:mysql-connector-java:8.0.33")
+
+	implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
+
+
+
 
 }
 

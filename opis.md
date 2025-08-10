@@ -1,4 +1,4 @@
-izgenerisao cgpt da se ne bi drkao sa papirom koji bi izgubio u roku od odmah kao uvek
+**izgenerisao cgpt da se ne bi drkao sa papirom koji bi izgubio u roku od odmah kao uvek
 
 # 🎵 Muzički Kviz - Backend Baza i Logika
 
@@ -91,5 +91,5 @@ Odgovori koje je korisnik dao tokom igre.
 - Čuvanje statistike po pesmi (koliko puta je pogođena).
 - Kategorije i filteri po žanru.
 
----
+---**
 

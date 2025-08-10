@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository
 @Repository
 interface  SongRepo: JpaRepository<Song,Long> { //jpa repo sadrži tipa findall(),findbyid(),save() itd itb
 
-    @Query("SELECT s FROM Song s ORDER BY function('RANDOM')")
-    fun findRandomSong(): Song //Function 'findRandomSong' must have a body.
+    @Query("SELECT s FROM Song s ORDER BY RAND() LIMIT 1 ") //DODAŠ LIMIT 1 BOKTEJEBO DA VRATI SAMO JEDNU PESMU!!!!
+    fun findRandomSong(): Song
 }
